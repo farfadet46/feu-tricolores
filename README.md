@@ -1,7 +1,6 @@
 This is my attempt to make a simple soldering kit for children.
 
-The idea is to make some soldering exercices + some programing on the ESP8266 (wemos D1 clone)
-
+The idea is to make some soldering exercices + some programing on the ESP8266 (wemos D1 clone)<br>I made the PCB via JLPCB for less than 1€ each.
 
 the final result :
 ![20240310_174634](https://github.com/farfadet46/feu-tricolores/assets/11613522/12d70a05-47f3-4e46-93ee-4dc4555e0097)
